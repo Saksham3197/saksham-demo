@@ -1,2 +1,2 @@
-# saksham-demo
-Heroku Learning
+# Handwritten-Digit-Recognition
+Using Flask and convolution neural network 
